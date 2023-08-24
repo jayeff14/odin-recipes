@@ -1,0 +1,28 @@
+*
+{background-color: lightblue;
+font-family: "Courier New"}
+
+.title
+    {background-color: lightblue;
+        color: rgb(46, 46, 46);
+        font-size: 60px;
+    }
+
+.description
+    {
+    font-size: 34px;
+    font-weight: bold;}
+
+.heading
+        {font-weight:bold;
+        font-size: 28px;}
+.text
+        {font-size: 20px}
+
+.images
+    {width: auto;
+    height: 400px}
+
+.list
+        {font-size: 18px;
+        }
